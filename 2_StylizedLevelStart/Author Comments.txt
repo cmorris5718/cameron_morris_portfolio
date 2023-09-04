@@ -1,0 +1,6 @@
+This project was originally created for the purposes of a level design class in my degree program
+The project uses stylized assets which I prefer over more realistic assets
+All assets used in this project were obtained from the Unity Asset Store.
+Aproximately 1-2 hours went into this project to get it to it's current state
+I have plans to finish designing and adding proper level of detail into this level
+when I use it for a game idea I'll be starting on the side of my school activities
