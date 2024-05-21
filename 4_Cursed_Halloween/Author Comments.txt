@@ -1,5 +1,0 @@
-This project was from my first semester of being a game designer back in 2021. 
-This was a fun little project built in Gamemaker Studio 2
-I still use Gakmemaker to quickly prototype ideas and get them to a playable state as fast as I possibly can to get an idea of how fun a game idea will be to actually play.
-
-Many of the assets obtained here were from sources like opengameart.org but unfortunately since it was my first semester as UCCS we were not told or required to keep a list of our sources for any non-original materials. Since then I now keep lists of where I got my assets.
